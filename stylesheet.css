@@ -1,0 +1,40 @@
+body {
+    background-color: #000;
+    background: linear-gradient(to top, #000 0%, #7e6363 16%, #8a2122 22%, #ff4949 65%) fixed;
+    color: black;
+    font-family: "Roboto Mono", monospace;
+    font-size: large;
+    text-align: center;
+}
+body header {
+    margin-top: 1cm;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 1cm;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+body header h1 {
+    color: #9d9dad;
+    margin: 0px;
+    font-weight: lighter;
+    background-color: #330404;
+    border-radius: 12px;
+    margin-bottom: 3px;
+}
+body header #UH {
+    color: #9d9dad;
+    margin: 0%;
+    background-color: #330404;
+    border-radius: 12px;
+}
+body a {
+    text-decoration: none;
+}
+body #The_Rest #Members p {
+    margin: 0cm;
+    font-weight: 200;
+}
+body #The_Rest #Members ul {
+    display: initial;
+}
